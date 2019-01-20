@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "plated-courier-229223",
+  "private_key_id": "06152a8199b051895fe9e717176cf8c6856ae2d5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDgZM3flnYHOkEq\nqEt6RRxQsJw1kozkMxuUYjKMMJRfXyoqu090tCy+/ZtGMmbAZUPMeAgEE3XnuaFh\nEE8b0PcHuc6fmUw12PZfS5j0pIRAQHZVDgOUh3+tJCytehO1HZV2o45APZKf5t8Y\n6KE+AWvHrRQ4B7MojO7ArNbc2sx81SlSrHQclkljTY3cZd6W9Ii+v9I1j8yM5+rW\nnhyId/8YiCcig/okQUIkNeu4riWZPlcIVnQe5fmb6LQV+EzFYlB02yXFql6Vv1OU\najry50M9gUZwPVm2joU8MxTkEcz6KtxfkoJ8J5Lo48Qgk1MVhQAGf5bB25gHU+Rx\nsCeDi2k1AgMBAAECggEAAW+iHjSQil2odHdBP4xAzyFcnyMtnZT5GBOl67l2EQ5F\n1lysOIMapr/GesGXxtoF6gx8zmq6lLUIoVtqujEjhNgPaV8cw72oQiltW9WRyim8\nP+hQuyoisF3Jb7nIMCYftotszhHUhfVwpJp1nW2uDo2UDJj6IcHE20CLWa3gQAyh\ndS7GZnhc0+aWJv1tWE6ryupLGoXRuvB3FLuGWGc416tOv9xdDt0CNmdgZk1dGm7p\n4k6v1e79eLWTa6Uf6vcEogsJBMM+XcOQxvOHuDtwE7I7wupqW3oZGTyTKdJe+UUn\n5XyNSmXtEqfOhA3jJQlr05jPUijlx2y3fE2dYg6VqQKBgQD8g7TlC0KcwCkQ/Rh5\nBpNz3kmslBWefoi0zZ+jZ1bEXE9hcQUlyDm8rbpHSCjYJfkmmYGkWKdUNGLonjPj\nGISZc8sEm2zqoC51xABJ32Wox9WHtdZB8d4sP2iCz8ZdTTN5Zlt1m6c2BXbwSlNp\n/4b30nvBYp1R9opDO42PeA3L3QKBgQDjfbqz61HGWOeel4KFT/wVa+LUECp/1d0a\nlDBDDSxhRId6/+gCj5CBmwY6VzIO/XNtRgLl/Oiuj2p509o3fgDF2vcTXiBs8Jbl\npsGgD2mKa9H6z3LBEzRiaNZyUy9SrzPKHd9wDE+hPRmihYA4xq7k/Lcsguzagpad\nTB3k0MNJOQKBgQDh1BxMlyRssYJImkFvw0zN3CfBevJWu80g/aBeb8XueKvZdk1n\nO8k/D5O/ui4lGNjZB4Ik69BCA1PNu+alm8DCyAbxyNrAfp7uXWrwpiTxrD4wT5Qd\nh+TtZ4vdKVq7CJcXZE45QQpqyrpTLfWpn4giTJC3I62UpsuCU1lHzNNx1QKBgH2B\n90ieMn6IvDjOBC+ComQ7Imi3BouCtTqduUa09OAxC8H7f8gx5prqqXP0eWS1xkHq\nV10FvGXaL/dIv2LQPKLsHFZuHtubnNTUvIyPFD5PIAkM/JWy/7qvdmiapkgq6xq+\ngnByCli9ue/lUYmBbCpflruS/BPN6kScIv4Dg0pZAoGARIioWE3xLajbVocSXqXb\neSmZRNqOR8itbxwoEbCGPFPb1BCeqXLgru+Cq3/E8FCT6cfebWuOA5aAPUTemL3l\nA9RG5aPu40ZJm3tvwfDUurhilFvZkN1UFBo9FnjE2fVZ6zUG2cwfzwV3/9VWl4/6\n0rUgOifmrW+XsewXkhL/Czs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "uofthacks@plated-courier-229223.iam.gserviceaccount.com",
+  "client_id": "109709962833922737385",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/uofthacks%40plated-courier-229223.iam.gserviceaccount.com"
+}
